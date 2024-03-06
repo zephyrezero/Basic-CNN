@@ -23,6 +23,7 @@ Well this is a basic Convolutional Neural network trained using Mnist data set
 * save it with .h5 exeten (saves the model in hierarchial data format rather than .pb format as .pb is default extension of tf)
 
 # Genreal Plot
-![download](https://github.com/zephyrezero/Basic-CNN/assets/147026858/b4583e52-396c-4f56-bc8c-bb11c1406cc5)
+![download](https://github.com/zephyrezero/Basic-CNN/assets/147026858/4cb4da76-2711-4bc2-9593-16689151c878)
+
 
 
